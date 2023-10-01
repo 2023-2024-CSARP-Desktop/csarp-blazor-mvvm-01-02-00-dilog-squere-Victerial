@@ -1,5 +1,4 @@
 ﻿using SquareProject.Client.Models;
-using SquareProject.Models;
 using ViewModels.BaseClass;
 
 namespace SquareProject.ViewModels
